@@ -22,5 +22,5 @@ post '/contact' do
 end
 
 get '/' do
-  puts "Isaacs portfolio backend"
+   "Isaacs portfolio backend"
 end
